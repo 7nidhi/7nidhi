@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7nidhi&" alt="7nidhi" /><img align="center" height="230" width="230" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg" alt="7nidhi" /></p>
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nidhipal7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nidhipal7/" height="50" width="60" /></a>
 <a href="https://instagram.com/7_nidhi_pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7_nidhi_pal" height="50" width="60" /></a>
